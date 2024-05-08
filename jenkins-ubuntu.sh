@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Author:  aazeh2014@gmail.com
+#Author:  azeh2014@gmail.com
 #Date: May 08, 2024
 #Description: Installation of jenkins on ubuntu
 
